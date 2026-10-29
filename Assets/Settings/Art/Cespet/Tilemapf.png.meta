@@ -1,0 +1,2589 @@
+fileFormatVersion: 2
+guid: c7de3eb7ffd2ff643b85cf5a4c1c7423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6811387923884977142
+    second: Tilemapf_0
+  - first:
+      213: 1604047602419973807
+    second: Tilemapf_1
+  - first:
+      213: -5445575478099645323
+    second: Tilemapf_2
+  - first:
+      213: -507345145898067976
+    second: Tilemapf_3
+  - first:
+      213: -3539424466931976604
+    second: Tilemapf_4
+  - first:
+      213: 3190802043646762041
+    second: Tilemapf_5
+  - first:
+      213: 3297254354627785964
+    second: Tilemapf_6
+  - first:
+      213: -2088212614110769631
+    second: Tilemapf_7
+  - first:
+      213: 1592559801679044802
+    second: Tilemapf_8
+  - first:
+      213: -3457820337301591360
+    second: Tilemapf_9
+  - first:
+      213: 7680027345990708765
+    second: Tilemapf_10
+  - first:
+      213: -8695372352260257908
+    second: Tilemapf_11
+  - first:
+      213: 5735807391120369340
+    second: Tilemapf_12
+  - first:
+      213: 2629368499834711652
+    second: Tilemapf_13
+  - first:
+      213: 6193093213983218780
+    second: Tilemapf_14
+  - first:
+      213: -8205228992182814060
+    second: Tilemapf_15
+  - first:
+      213: 3907658492501473291
+    second: Tilemapf_16
+  - first:
+      213: 5193850926113056414
+    second: Tilemapf_17
+  - first:
+      213: 1094214256798384724
+    second: Tilemapf_18
+  - first:
+      213: -2766854715278705740
+    second: Tilemapf_19
+  - first:
+      213: -6281742615984249511
+    second: Tilemapf_20
+  - first:
+      213: 5096401692062975953
+    second: Tilemapf_21
+  - first:
+      213: 2031386135763523769
+    second: Tilemapf_22
+  - first:
+      213: -5216898371112117639
+    second: Tilemapf_23
+  - first:
+      213: 8156850489099358956
+    second: Tilemapf_24
+  - first:
+      213: -701526397445149819
+    second: Tilemapf_25
+  - first:
+      213: -6273970806315618311
+    second: Tilemapf_26
+  - first:
+      213: 3625068558835373840
+    second: Tilemapf_27
+  - first:
+      213: 8385447296889415219
+    second: Tilemapf_28
+  - first:
+      213: 249220883561890590
+    second: Tilemapf_29
+  - first:
+      213: -2082065497695803808
+    second: Tilemapf_30
+  - first:
+      213: -5861869174754286826
+    second: Tilemapf_31
+  - first:
+      213: 4572807333460931053
+    second: Tilemapf_32
+  - first:
+      213: -6268796751972340485
+    second: Tilemapf_33
+  - first:
+      213: 1763357945819605281
+    second: Tilemapf_34
+  - first:
+      213: 6601025934610327860
+    second: Tilemapf_35
+  - first:
+      213: -2908873924745699558
+    second: Tilemapf_36
+  - first:
+      213: 631574454178227773
+    second: Tilemapf_37
+  - first:
+      213: 2657907874810341376
+    second: Tilemapf_38
+  - first:
+      213: 8699081308940514413
+    second: Tilemapf_39
+  - first:
+      213: -2679932881970426708
+    second: Tilemapf_40
+  - first:
+      213: 690519199254304932
+    second: Tilemapf_41
+  - first:
+      213: -4513828718514209061
+    second: Tilemapf_42
+  - first:
+      213: -927071944040050990
+    second: Tilemapf_43
+  - first:
+      213: 4273783195467237526
+    second: Tilemapf_44
+  - first:
+      213: 1369444704754927736
+    second: Tilemapf_45
+  - first:
+      213: -5600607701828676057
+    second: Tilemapf_46
+  - first:
+      213: -8554837907136939585
+    second: Tilemapf_47
+  - first:
+      213: 8319647088219637790
+    second: Tilemapf_48
+  - first:
+      213: -4918125036797894977
+    second: Tilemapf_49
+  - first:
+      213: -3806058444549183487
+    second: Tilemapf_50
+  - first:
+      213: -5766768692422009393
+    second: Tilemapf_51
+  - first:
+      213: -7902363502581825461
+    second: Tilemapf_52
+  - first:
+      213: 1151947993134857213
+    second: Tilemapf_53
+  - first:
+      213: -848954581279371667
+    second: Tilemapf_54
+  - first:
+      213: -1402905128938790813
+    second: Tilemapf_55
+  - first:
+      213: -4078347627195322323
+    second: Tilemapf_56
+  - first:
+      213: -6879754728832146258
+    second: Tilemapf_57
+  - first:
+      213: -5637950595944174792
+    second: Tilemapf_58
+  - first:
+      213: 2449712586073719129
+    second: Tilemapf_59
+  - first:
+      213: 897205439397072433
+    second: Tilemapf_60
+  - first:
+      213: 8854191209679665346
+    second: Tilemapf_61
+  - first:
+      213: 1178367301362307684
+    second: Tilemapf_62
+  - first:
+      213: 6179054527063951686
+    second: Tilemapf_63
+  - first:
+      213: 2400742222214954332
+    second: Tilemapf_64
+  - first:
+      213: 6733893289189354387
+    second: Tilemapf_65
+  - first:
+      213: 2559692957166564079
+    second: Tilemapf_66
+  - first:
+      213: 4177301897634660292
+    second: Tilemapf_67
+  - first:
+      213: -1869593132395882466
+    second: Tilemapf_68
+  - first:
+      213: 3211338870706199312
+    second: Tilemapf_69
+  - first:
+      213: 7805741982286719009
+    second: Tilemapf_70
+  - first:
+      213: -9177254395684172614
+    second: Tilemapf_71
+  - first:
+      213: -5975297211397014427
+    second: Tilemapf_72
+  - first:
+      213: -3123994252684863303
+    second: Tilemapf_73
+  - first:
+      213: 8229424806285860687
+    second: Tilemapf_74
+  - first:
+      213: 3705722633336957465
+    second: Tilemapf_75
+  - first:
+      213: 2212571428038407883
+    second: Tilemapf_76
+  - first:
+      213: -2801034476151057316
+    second: Tilemapf_77
+  - first:
+      213: 3999013559714923786
+    second: Tilemapf_78
+  - first:
+      213: -5282237564985237973
+    second: Tilemapf_79
+  - first:
+      213: 7968310509470368719
+    second: Tilemapf_80
+  - first:
+      213: -8642919088143557370
+    second: Tilemapf_81
+  - first:
+      213: 5298916010481140565
+    second: Tilemapf_82
+  - first:
+      213: 6778088392470933018
+    second: Tilemapf_83
+  - first:
+      213: 5107257536220669818
+    second: Tilemapf_84
+  - first:
+      213: -322769506123019038
+    second: Tilemapf_85
+  - first:
+      213: 4411235348749827855
+    second: Tilemapf_86
+  - first:
+      213: -1929110809421233292
+    second: Tilemapf_87
+  - first:
+      213: -3923586675068402450
+    second: Tilemapf_88
+  - first:
+      213: 6368316822893140522
+    second: Tilemapf_89
+  - first:
+      213: 2484089970515643245
+    second: Tilemapf_90
+  - first:
+      213: -193064837106023858
+    second: Tilemapf_91
+  - first:
+      213: 4804866903765614251
+    second: Tilemapf_92
+  - first:
+      213: -2553892488060544153
+    second: Tilemapf_93
+  - first:
+      213: -5556514680750519524
+    second: Tilemapf_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemapf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbac8e7a39e68e50800000000000000
+      internalID: 6811387923884977142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae3f09bbc8b24610800000000000000
+      internalID: 1604047602419973807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cea4e54fd6d64b0800000000000000
+      internalID: -5445575478099645323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71a30274c85f8f0800000000000000
+      internalID: -507345145898067976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667133333071eec0800000000000000
+      internalID: -3539424466931976604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cd7289d81084c20800000000000000
+      internalID: 3190802043646762041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4f2bdad5332cd20800000000000000
+      internalID: 3297254354627785964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e0078f0bd2503e0800000000000000
+      internalID: -2088212614110769631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c065aea3b8e91610800000000000000
+      internalID: 1592559801679044802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca640a39ba5300d0800000000000000
+      internalID: -3457820337301591360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eef0f3e20f49a60800000000000000
+      internalID: 7680027345990708765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8746c96ae4d35780800000000000000
+      internalID: -8695372352260257908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb62acfbe6ea99f40800000000000000
+      internalID: 5735807391120369340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eef3838b46d7420800000000000000
+      internalID: 2629368499834711652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1a58377942f550800000000000000
+      internalID: 6193093213983218780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af43c64bb212e80800000000000000
+      internalID: -8205228992182814060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b61df1baca3630800000000000000
+      internalID: 3907658492501473291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e966d4b26e3441840800000000000000
+      internalID: 5193850926113056414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452c2a4b11e6f2f00800000000000000
+      internalID: 1094214256798384724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb2bebb482a99d0800000000000000
+      internalID: -2766854715278705740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95563d37f54c2d8a0800000000000000
+      internalID: -6281742615984249511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d70d18465e0ab640800000000000000
+      internalID: 5096401692062975953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b896df7deee03c10800000000000000
+      internalID: 2031386135763523769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a5c80629ad997b0800000000000000
+      internalID: -5216898371112117639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21db09d44f23170800000000000000
+      internalID: 8156850489099358956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58be8b7557da346f0800000000000000
+      internalID: -701526397445149819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffe266eac06ee8a0800000000000000
+      internalID: -6273970806315618311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d1d7d5a4de4230800000000000000
+      internalID: 3625068558835373840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3366ad573e71f5470800000000000000
+      internalID: 8385447296889415219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13c05bb219657300800000000000000
+      internalID: 249220883561890590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066aeba06740b13e0800000000000000
+      internalID: -2082065497695803808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61365f60b0576aea0800000000000000
+      internalID: -5861869174754286826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17d31ca00e57f30800000000000000
+      internalID: 4572807333460931053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce09d4192c009a0800000000000000
+      internalID: -6268796751972340485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a07485b4b87810800000000000000
+      internalID: 1763357945819605281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e6912d1e8b9b50800000000000000
+      internalID: 6601025934610327860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fd22bc39a91a7d0800000000000000
+      internalID: -2908873924745699558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36218eae9dc3c800800000000000000
+      internalID: 631574454178227773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008a8c34129c2e420800000000000000
+      internalID: 2657907874810341376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b3ab5c5859b870800000000000000
+      internalID: 8699081308940514413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac83442e37fecad0800000000000000
+      internalID: -2679932881970426708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8d32e9d87359900800000000000000
+      internalID: 690519199254304932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef00022b8ab51c0800000000000000
+      internalID: -4513828718514209061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de034e8af06223f0800000000000000
+      internalID: -927071944040050990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698cbdc3c278f4b30800000000000000
+      internalID: 4273783195467237526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878057e04be310310800000000000000
+      internalID: 1369444704754927736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7265f2ee7f4a642b0800000000000000
+      internalID: -5600607701828676057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97e0abf3c174980800000000000000
+      internalID: -8554837907136939585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18c1f582f2557370800000000000000
+      internalID: 8319647088219637790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed4bc165f4fbbb0800000000000000
+      internalID: -4918125036797894977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1082542920a2e2bc0800000000000000
+      internalID: -3806058444549183487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd975a8d6258ffa0800000000000000
+      internalID: -5766768692422009393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40499e434a255290800000000000000
+      internalID: -7902363502581825461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_53
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbf682b89a8cff00800000000000000
+      internalID: 1151947993134857213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e07686e48e734f0800000000000000
+      internalID: -848954581279371667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_55
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a708d731e78ce0800000000000000
+      internalID: -1402905128938790813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20377ae07cc667c0800000000000000
+      internalID: -4078347627195322323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4652e46833680a0800000000000000
+      internalID: -6879754728832146258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bab8bddc9f1c1b0800000000000000
+      internalID: -5637950595944174792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9514abe2e902ff120800000000000000
+      internalID: 2449712586073719129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e8fc1f793837c00800000000000000
+      internalID: 897205439397072433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b7526ef760ea70800000000000000
+      internalID: 8854191209679665346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d2ac31d66a5010800000000000000
+      internalID: 1178367301362307684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498a65ba5960c550800000000000000
+      internalID: 6179054527063951686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7768d456215120800000000000000
+      internalID: 2400742222214954332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba481d448937d50800000000000000
+      internalID: 6733893289189354387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27bf5ce2bd58320800000000000000
+      internalID: 2559692957166564079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_67
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf341091f1c8f930800000000000000
+      internalID: 4177301897634660292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18980d93fedd06e0800000000000000
+      internalID: -1869593132395882466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bd8d140b7f09c20800000000000000
+      internalID: 3211338870706199312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ad8ee9f0935c60800000000000000
+      internalID: 7805741982286719009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4ad310c7d3a080800000000000000
+      internalID: -9177254395684172614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c7c4f38da731da0800000000000000
+      internalID: -5975297211397014427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85b5067c755a4d0800000000000000
+      internalID: -3123994252684863303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd47c824ac43270800000000000000
+      internalID: 8229424806285860687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_75
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aac2ce91f5d6330800000000000000
+      internalID: 3705722633336957465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_76
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc67868bdf1a4be10800000000000000
+      internalID: 2212571428038407883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d4650cf9b029d0800000000000000
+      internalID: -2801034476151057316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0547c615a95f7730800000000000000
+      internalID: 3999013559714923786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_79
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e94dfcbe8b1b6b0800000000000000
+      internalID: -5282237564985237973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_80
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34ef0c030259e60800000000000000
+      internalID: 7968310509470368719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d92c8a1ee2e0880800000000000000
+      internalID: -8642919088143557370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553cb536908898940800000000000000
+      internalID: 5298916010481140565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ead692b7b901e50800000000000000
+      internalID: 6778088392470933018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77aed67baf90e640800000000000000
+      internalID: 5107257536220669818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec853328da458bf0800000000000000
+      internalID: -322769506123019038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_86
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f31ee8d2bd73d30800000000000000
+      internalID: 4411235348749827855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c41090fb6a35e0800000000000000
+      internalID: -1929110809421233292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4871305be9c89c0800000000000000
+      internalID: -3923586675068402450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_89
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a90bdd86ec06850800000000000000
+      internalID: 6368316822893140522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b02babaa2497220800000000000000
+      internalID: 2484089970515643245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424da5bd88125df0800000000000000
+      internalID: -193064837106023858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baefaffddf05ea240800000000000000
+      internalID: 4804866903765614251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_93
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bdc9e2050ce8cd0800000000000000
+      internalID: -2553892488060544153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemapf_94
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b4f98665b43e2b0800000000000000
+      internalID: -5556514680750519524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2ea289a3e0e8194593495a7e6f4116d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tilemapf_0: 6811387923884977142
+      Tilemapf_1: 1604047602419973807
+      Tilemapf_10: 7680027345990708765
+      Tilemapf_11: -8695372352260257908
+      Tilemapf_12: 5735807391120369340
+      Tilemapf_13: 2629368499834711652
+      Tilemapf_14: 6193093213983218780
+      Tilemapf_15: -8205228992182814060
+      Tilemapf_16: 3907658492501473291
+      Tilemapf_17: 5193850926113056414
+      Tilemapf_18: 1094214256798384724
+      Tilemapf_19: -2766854715278705740
+      Tilemapf_2: -5445575478099645323
+      Tilemapf_20: -6281742615984249511
+      Tilemapf_21: 5096401692062975953
+      Tilemapf_22: 2031386135763523769
+      Tilemapf_23: -5216898371112117639
+      Tilemapf_24: 8156850489099358956
+      Tilemapf_25: -701526397445149819
+      Tilemapf_26: -6273970806315618311
+      Tilemapf_27: 3625068558835373840
+      Tilemapf_28: 8385447296889415219
+      Tilemapf_29: 249220883561890590
+      Tilemapf_3: -507345145898067976
+      Tilemapf_30: -2082065497695803808
+      Tilemapf_31: -5861869174754286826
+      Tilemapf_32: 4572807333460931053
+      Tilemapf_33: -6268796751972340485
+      Tilemapf_34: 1763357945819605281
+      Tilemapf_35: 6601025934610327860
+      Tilemapf_36: -2908873924745699558
+      Tilemapf_37: 631574454178227773
+      Tilemapf_38: 2657907874810341376
+      Tilemapf_39: 8699081308940514413
+      Tilemapf_4: -3539424466931976604
+      Tilemapf_40: -2679932881970426708
+      Tilemapf_41: 690519199254304932
+      Tilemapf_42: -4513828718514209061
+      Tilemapf_43: -927071944040050990
+      Tilemapf_44: 4273783195467237526
+      Tilemapf_45: 1369444704754927736
+      Tilemapf_46: -5600607701828676057
+      Tilemapf_47: -8554837907136939585
+      Tilemapf_48: 8319647088219637790
+      Tilemapf_49: -4918125036797894977
+      Tilemapf_5: 3190802043646762041
+      Tilemapf_50: -3806058444549183487
+      Tilemapf_51: -5766768692422009393
+      Tilemapf_52: -7902363502581825461
+      Tilemapf_53: 1151947993134857213
+      Tilemapf_54: -848954581279371667
+      Tilemapf_55: -1402905128938790813
+      Tilemapf_56: -4078347627195322323
+      Tilemapf_57: -6879754728832146258
+      Tilemapf_58: -5637950595944174792
+      Tilemapf_59: 2449712586073719129
+      Tilemapf_6: 3297254354627785964
+      Tilemapf_60: 897205439397072433
+      Tilemapf_61: 8854191209679665346
+      Tilemapf_62: 1178367301362307684
+      Tilemapf_63: 6179054527063951686
+      Tilemapf_64: 2400742222214954332
+      Tilemapf_65: 6733893289189354387
+      Tilemapf_66: 2559692957166564079
+      Tilemapf_67: 4177301897634660292
+      Tilemapf_68: -1869593132395882466
+      Tilemapf_69: 3211338870706199312
+      Tilemapf_7: -2088212614110769631
+      Tilemapf_70: 7805741982286719009
+      Tilemapf_71: -9177254395684172614
+      Tilemapf_72: -5975297211397014427
+      Tilemapf_73: -3123994252684863303
+      Tilemapf_74: 8229424806285860687
+      Tilemapf_75: 3705722633336957465
+      Tilemapf_76: 2212571428038407883
+      Tilemapf_77: -2801034476151057316
+      Tilemapf_78: 3999013559714923786
+      Tilemapf_79: -5282237564985237973
+      Tilemapf_8: 1592559801679044802
+      Tilemapf_80: 7968310509470368719
+      Tilemapf_81: -8642919088143557370
+      Tilemapf_82: 5298916010481140565
+      Tilemapf_83: 6778088392470933018
+      Tilemapf_84: 5107257536220669818
+      Tilemapf_85: -322769506123019038
+      Tilemapf_86: 4411235348749827855
+      Tilemapf_87: -1929110809421233292
+      Tilemapf_88: -3923586675068402450
+      Tilemapf_89: 6368316822893140522
+      Tilemapf_9: -3457820337301591360
+      Tilemapf_90: 2484089970515643245
+      Tilemapf_91: -193064837106023858
+      Tilemapf_92: 4804866903765614251
+      Tilemapf_93: -2553892488060544153
+      Tilemapf_94: -5556514680750519524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

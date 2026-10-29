@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: 810f47925d5d406488a3c418ab14e907
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7329001106743638627
+    second: "BosqueClaro_0005_Caba\xF1a_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_0"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95c91af2582a4a90800000000000000
+      internalID: -7329001106743638627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_1"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee264e06eaeecf499874b0681951df6
+      internalID: -654572369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_2"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d6402dbb384b545b22867ada5b8240
+      internalID: 614921180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cb59b36be705488050fc5f2e88204
+      internalID: -1269556245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_4"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da2c8bc85ab124b8c8ba227afd3323
+      internalID: 1602756798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_5"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45785f12f3d9c74f9ce69f4351f33d8
+      internalID: -1396072045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_6"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e807c97fb2ce4088fe9a872131371
+      internalID: -135777023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_7"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67dda52dfebee4e9034c636ae64d2c
+      internalID: -1859277811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_8"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8de2fae63a058448d0b8f53fcbf908
+      internalID: 962163862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_9"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8419cd88121c94bbf1d88cd38ffcad
+      internalID: 712717437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_10"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ddf863ec2117e41a4945124620553c
+      internalID: 1062092637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_11"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e2b628d70b924185816337d9e570c
+      internalID: 372580426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_12"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27920d5722a11146983a4a01d00112f
+      internalID: 1873808721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_13"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12756f780bb9e1f48b76bdae6afba731
+      internalID: 2089311723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_14"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed59eb5014988e49b0d38d90d78d924
+      internalID: 1204143496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_15"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a5993b414d7e4cb802b871ab16cc9
+      internalID: -1153050150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_16"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa7024208c58e4c92a41c952001182
+      internalID: -1465724150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_17"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d4251db05b704ca2c03ce13412bb8
+      internalID: -1304718621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_18"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ab34d7259d6444c8ecf0adb65d591a
+      internalID: -281880767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_19"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b279aaa96b1a4798cac53a1573ddb
+      internalID: -1324455910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_20"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e2d2acf13376245b3c10c1ae0a67fe
+      internalID: -2143124795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_21"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b82a6577ac2342ba485980494a5df
+      internalID: 497431077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_22"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a13b17ea65f85f45a7d07dba6e96254
+      internalID: -1331839416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_23"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea25e67dec6e948ac79908d7ee883a
+      internalID: -1839509311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_24"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87ab3f3d2cceb499252c7861848151
+      internalID: 1274670477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_25"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd1293b8c3d2d479ddf0d97f2dc7ff
+      internalID: -1063248388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_26"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efacf3a4a0a8d242ab316f55d6c8cbd
+      internalID: -1385290605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_27"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b998c42a8989459ebacd3210a534b
+      internalID: -1945995643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_28"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fff8a6290de274a909c72ac071993a
+      internalID: -1145987457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_29"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d268f21574134f9e626c4a7b25bc6
+      internalID: -1480064110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_30"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6798e00ebea2f434aa7989b4b92d0ae9
+      internalID: -960258076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_31"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f179f8a19cb6443b687221fc4ce132
+      internalID: 976369326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_32"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e0067e28f5f84994de64e9d382310
+      internalID: 2041118161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_33"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357094b38dd164442a9420d7b6372124
+      internalID: 1837788262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_34"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dff80922498564d814707698158f88
+      internalID: -326062029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_35"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d015216772184ea474e76bad74d16
+      internalID: 859901882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_36"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeee887d9939684c987eff70b918e96
+      internalID: -2003312244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_37"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddc6a370d4e9f44baf41150e76dfea9
+      internalID: -199818890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_38"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc49a05d0dcd9042ad837b7fe2393b6
+      internalID: 478318277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_39"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3abfc802f3683f40b3705588de26e11
+      internalID: -1918786787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_40"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5a77d51d6dbf47b8de6fa52d18a92
+      internalID: 364812274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_41"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af209953fe9b84d4b865be474e3320b3
+      internalID: -1733906962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_42"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b280b8a21e2e5499a9476b1b24a37d
+      internalID: 1647501386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BosqueClaro_0005_Caba\xF1a_43"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7353e0d29bb584488de72497080017
+      internalID: -2087345378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3af036de6ae711141be868aea3542d11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "BosqueClaro_0005_Caba\xF1a_0": -7329001106743638627
+      "BosqueClaro_0005_Caba\xF1a_1": -654572369
+      "BosqueClaro_0005_Caba\xF1a_10": 1062092637
+      "BosqueClaro_0005_Caba\xF1a_11": 372580426
+      "BosqueClaro_0005_Caba\xF1a_12": 1873808721
+      "BosqueClaro_0005_Caba\xF1a_13": 2089311723
+      "BosqueClaro_0005_Caba\xF1a_14": 1204143496
+      "BosqueClaro_0005_Caba\xF1a_15": -1153050150
+      "BosqueClaro_0005_Caba\xF1a_16": -1465724150
+      "BosqueClaro_0005_Caba\xF1a_17": -1304718621
+      "BosqueClaro_0005_Caba\xF1a_18": -281880767
+      "BosqueClaro_0005_Caba\xF1a_19": -1324455910
+      "BosqueClaro_0005_Caba\xF1a_2": 614921180
+      "BosqueClaro_0005_Caba\xF1a_20": -2143124795
+      "BosqueClaro_0005_Caba\xF1a_21": 497431077
+      "BosqueClaro_0005_Caba\xF1a_22": -1331839416
+      "BosqueClaro_0005_Caba\xF1a_23": -1839509311
+      "BosqueClaro_0005_Caba\xF1a_24": 1274670477
+      "BosqueClaro_0005_Caba\xF1a_25": -1063248388
+      "BosqueClaro_0005_Caba\xF1a_26": -1385290605
+      "BosqueClaro_0005_Caba\xF1a_27": -1945995643
+      "BosqueClaro_0005_Caba\xF1a_28": -1145987457
+      "BosqueClaro_0005_Caba\xF1a_29": -1480064110
+      "BosqueClaro_0005_Caba\xF1a_3": -1269556245
+      "BosqueClaro_0005_Caba\xF1a_30": -960258076
+      "BosqueClaro_0005_Caba\xF1a_31": 976369326
+      "BosqueClaro_0005_Caba\xF1a_32": 2041118161
+      "BosqueClaro_0005_Caba\xF1a_33": 1837788262
+      "BosqueClaro_0005_Caba\xF1a_34": -326062029
+      "BosqueClaro_0005_Caba\xF1a_35": 859901882
+      "BosqueClaro_0005_Caba\xF1a_36": -2003312244
+      "BosqueClaro_0005_Caba\xF1a_37": -199818890
+      "BosqueClaro_0005_Caba\xF1a_38": 478318277
+      "BosqueClaro_0005_Caba\xF1a_39": -1918786787
+      "BosqueClaro_0005_Caba\xF1a_4": 1602756798
+      "BosqueClaro_0005_Caba\xF1a_40": 364812274
+      "BosqueClaro_0005_Caba\xF1a_41": -1733906962
+      "BosqueClaro_0005_Caba\xF1a_42": 1647501386
+      "BosqueClaro_0005_Caba\xF1a_43": -2087345378
+      "BosqueClaro_0005_Caba\xF1a_5": -1396072045
+      "BosqueClaro_0005_Caba\xF1a_6": -135777023
+      "BosqueClaro_0005_Caba\xF1a_7": -1859277811
+      "BosqueClaro_0005_Caba\xF1a_8": 962163862
+      "BosqueClaro_0005_Caba\xF1a_9": 712717437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

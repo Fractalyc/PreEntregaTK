@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: 1a9c05c19a8bb4a49992d5f0d3b1a165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6429159677260849746
+    second: Arboles Fusionadas_0
+  - first:
+      213: 2642634312618782285
+    second: Arboles Fusionadas_1
+  - first:
+      213: -717189058050784483
+    second: Arboles Fusionadas_2
+  - first:
+      213: -1645968062084220453
+    second: Arboles Fusionadas_3
+  - first:
+      213: -3661175442354470915
+    second: Arboles Fusionadas_4
+  - first:
+      213: -6528501027686703600
+    second: Arboles Fusionadas_5
+  - first:
+      213: 1391309519843957671
+    second: Arboles Fusionadas_6
+  - first:
+      213: 4876697074836698071
+    second: Arboles Fusionadas_7
+  - first:
+      213: -2114498362540783672
+    second: Arboles Fusionadas_8
+  - first:
+      213: 3090369003148838463
+    second: Arboles Fusionadas_9
+  - first:
+      213: -5639763896843876763
+    second: Arboles Fusionadas_10
+  - first:
+      213: 9130548910959708955
+    second: Arboles Fusionadas_11
+  - first:
+      213: 515654363379339072
+    second: Arboles Fusionadas_12
+  - first:
+      213: 6681764487117537324
+    second: Arboles Fusionadas_13
+  - first:
+      213: 7320357938373690957
+    second: Arboles Fusionadas_14
+  - first:
+      213: -1633969621553351109
+    second: Arboles Fusionadas_15
+  - first:
+      213: 1675732062790150148
+    second: Arboles Fusionadas_16
+  - first:
+      213: 7250518096780318470
+    second: Arboles Fusionadas_17
+  - first:
+      213: -2115773866358025225
+    second: Arboles Fusionadas_18
+  - first:
+      213: 6219869804984096373
+    second: Arboles Fusionadas_19
+  - first:
+      213: 5117377003344553031
+    second: Arboles Fusionadas_20
+  - first:
+      213: 5266010125594836246
+    second: Arboles Fusionadas_21
+  - first:
+      213: -3154552654202763704
+    second: Arboles Fusionadas_22
+  - first:
+      213: 6739512017096202502
+    second: Arboles Fusionadas_23
+  - first:
+      213: 6324266173502128292
+    second: Arboles Fusionadas_24
+  - first:
+      213: 4580130012835673040
+    second: Arboles Fusionadas_25
+  - first:
+      213: 2496669321938146285
+    second: Arboles Fusionadas_26
+  - first:
+      213: 8113050472417018816
+    second: Arboles Fusionadas_27
+  - first:
+      213: 8514665397800759967
+    second: Arboles Fusionadas_28
+  - first:
+      213: 2874800444286561619
+    second: Arboles Fusionadas_29
+  - first:
+      213: 5728891994201614503
+    second: Arboles Fusionadas_30
+  - first:
+      213: 8258131457798454004
+    second: Arboles Fusionadas_31
+  - first:
+      213: 7308412123433831454
+    second: Arboles Fusionadas_32
+  - first:
+      213: 689480268376850631
+    second: Arboles Fusionadas_33
+  - first:
+      213: -2024117997478820817
+    second: Arboles Fusionadas_34
+  - first:
+      213: -3516584841208103789
+    second: Arboles Fusionadas_35
+  - first:
+      213: -4050470573246168157
+    second: Arboles Fusionadas_36
+  - first:
+      213: 2001818061291573141
+    second: Arboles Fusionadas_37
+  - first:
+      213: 4375425368013641118
+    second: Arboles Fusionadas_38
+  - first:
+      213: 4429364537985101235
+    second: Arboles Fusionadas_39
+  - first:
+      213: -7906661548681171122
+    second: Arboles Fusionadas_40
+  - first:
+      213: -8015166066914884506
+    second: Arboles Fusionadas_41
+  - first:
+      213: 3768673717692135475
+    second: Arboles Fusionadas_42
+  - first:
+      213: 1580821546799310491
+    second: Arboles Fusionadas_43
+  - first:
+      213: -3224452834344484276
+    second: Arboles Fusionadas_44
+  - first:
+      213: 7287652306681974234
+    second: Arboles Fusionadas_45
+  - first:
+      213: -4280069995214666300
+    second: Arboles Fusionadas_46
+  - first:
+      213: -5134831492651368804
+    second: Arboles Fusionadas_47
+  - first:
+      213: 3798126811161682566
+    second: Arboles Fusionadas_48
+  - first:
+      213: -204846264588473450
+    second: Arboles Fusionadas_49
+  - first:
+      213: 1777557825685942033
+    second: Arboles Fusionadas_50
+  - first:
+      213: -2333136486699695615
+    second: Arboles Fusionadas_51
+  - first:
+      213: -2761561336266203143
+    second: Arboles Fusionadas_52
+  - first:
+      213: -750533067124762888
+    second: Arboles Fusionadas_53
+  - first:
+      213: -4573144476667554621
+    second: Arboles Fusionadas_54
+  - first:
+      213: 6225619994393548813
+    second: Arboles Fusionadas_55
+  - first:
+      213: 9213695225548222052
+    second: Arboles Fusionadas_56
+  - first:
+      213: -3717377631392514458
+    second: Arboles Fusionadas_57
+  - first:
+      213: -6194861972556989663
+    second: Arboles Fusionadas_58
+  - first:
+      213: 5391773645182508410
+    second: Arboles Fusionadas_59
+  - first:
+      213: 3113421842014469324
+    second: Arboles Fusionadas_60
+  - first:
+      213: 8656793004358344262
+    second: Arboles Fusionadas_61
+  - first:
+      213: -5481618648148778004
+    second: Arboles Fusionadas_62
+  - first:
+      213: -4918585793410726998
+    second: Arboles Fusionadas_63
+  - first:
+      213: -5974200955728732965
+    second: Arboles Fusionadas_64
+  - first:
+      213: -1841540195039506333
+    second: Arboles Fusionadas_65
+  - first:
+      213: 884817324230367346
+    second: Arboles Fusionadas_66
+  - first:
+      213: 330389486973731311
+    second: Arboles Fusionadas_67
+  - first:
+      213: 2622243430300016142
+    second: Arboles Fusionadas_68
+  - first:
+      213: -1724323160181386972
+    second: Arboles Fusionadas_69
+  - first:
+      213: 989570113311495154
+    second: Arboles Fusionadas_70
+  - first:
+      213: -1610497027805455206
+    second: Arboles Fusionadas_71
+  - first:
+      213: -3428694367841648405
+    second: Arboles Fusionadas_72
+  - first:
+      213: -4459307655903241981
+    second: Arboles Fusionadas_73
+  - first:
+      213: -7355345851263013483
+    second: Arboles Fusionadas_74
+  - first:
+      213: -2083175700031647069
+    second: Arboles Fusionadas_75
+  - first:
+      213: -44311841820383629
+    second: Arboles Fusionadas_76
+  - first:
+      213: -5974547920042036711
+    second: Arboles Fusionadas_77
+  - first:
+      213: 1544421605947054464
+    second: Arboles Fusionadas_78
+  - first:
+      213: -6700200635902234010
+    second: Arboles Fusionadas_79
+  - first:
+      213: -4180256347053875366
+    second: Arboles Fusionadas_80
+  - first:
+      213: 6690252324408580103
+    second: Arboles Fusionadas_81
+  - first:
+      213: 169260861528822356
+    second: Arboles Fusionadas_82
+  - first:
+      213: 3352664686794495287
+    second: Arboles Fusionadas_83
+  - first:
+      213: -1683091680824823904
+    second: Arboles Fusionadas_84
+  - first:
+      213: -3877047456797983303
+    second: Arboles Fusionadas_85
+  - first:
+      213: -8825717214731152194
+    second: Arboles Fusionadas_86
+  - first:
+      213: -4571526739632807299
+    second: Arboles Fusionadas_87
+  - first:
+      213: -3835604918628607374
+    second: Arboles Fusionadas_88
+  - first:
+      213: 3559076129083024892
+    second: Arboles Fusionadas_89
+  - first:
+      213: -3364747421473862540
+    second: Arboles Fusionadas_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arboles Fusionadas_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1035
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e56fc9a6f83950800000000000000
+      internalID: 6429159677260849746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1040
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ea6e2f7e58ca420800000000000000
+      internalID: 2642634312618782285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 914
+        width: 133
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13061ef9580c06f0800000000000000
+      internalID: -717189058050784483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 917
+        width: 137
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f4dba4c85829e0800000000000000
+      internalID: -1645968062084220453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 924
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfff31a3554e03dc0800000000000000
+      internalID: -3661175442354470915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 972
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e16f0a7ea1665a0800000000000000
+      internalID: -6528501027686703600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 981
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1be603acee4310800000000000000
+      internalID: 1391309519843957671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 971
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f3d6d6228da340800000000000000
+      internalID: 4876697074836698071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 989
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c78c9e31fac7a2e0800000000000000
+      internalID: -2114498362540783672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 989
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3680912c3233ea20800000000000000
+      internalID: 3090369003148838463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 993
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5664c87dd988bb1b0800000000000000
+      internalID: -5639763896843876763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_11
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 993
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b451adbd936be70800000000000000
+      internalID: 9130548910959708955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_12
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 971
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f0b1459e8f72700800000000000000
+      internalID: 515654363379339072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 971
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20067746656abc50800000000000000
+      internalID: 6681764487117537324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 955
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46897192c2279560800000000000000
+      internalID: 7320357938373690957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 934
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36788d4949f259e0800000000000000
+      internalID: -1633969621553351109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 935
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e655ce65614710800000000000000
+      internalID: 1675732062790150148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 947
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d12c4bc30f9460800000000000000
+      internalID: 7250518096780318470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_18
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 889
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3dcaed0e243a2e0800000000000000
+      internalID: -2115773866358025225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 919
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576514322aa615650800000000000000
+      internalID: 6219869804984096373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 901
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744ea128543940740800000000000000
+      internalID: 5117377003344553031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_21
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 934
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db0b70f40a41940800000000000000
+      internalID: 5266010125594836246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 898
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8468af41317c834d0800000000000000
+      internalID: -3154552654202763704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_23
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 910
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609de7ad87e878d50800000000000000
+      internalID: 6739512017096202502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 778
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a00d90d39e44c750800000000000000
+      internalID: 6324266173502128292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 778
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3fc28eaf3ef8f30800000000000000
+      internalID: 4580130012835673040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 748
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31db73583f5a220800000000000000
+      internalID: 2496669321938146285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 753
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c34b3d7b68579070800000000000000
+      internalID: 8113050472417018816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 724
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f927931111b2a2670800000000000000
+      internalID: 8514665397800759967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 724
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35de5d1d5c755e720800000000000000
+      internalID: 2874800444286561619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_30
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 700
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a867fe6aec118f40800000000000000
+      internalID: 5728891994201614503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_31
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 729
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa3e82bec6ca9270800000000000000
+      internalID: 8258131457798454004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_32
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 608
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c8e69ca12bc6560800000000000000
+      internalID: 7308412123433831454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 655
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c04e3ca6a6819900800000000000000
+      internalID: 689480268376850631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 659
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24ccc0d763e8e3e0800000000000000
+      internalID: -2024117997478820817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_35
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 693
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c7445f7b4923fc0800000000000000
+      internalID: -3516584841208103789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_36
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 687
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a34d745976d9c7c0800000000000000
+      internalID: -4050470573246168157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_37
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 682
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fce30bbe2e7cb10800000000000000
+      internalID: 2001818061291573141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 688
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e959fa1b032a8bc30800000000000000
+      internalID: 4375425368013641118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 663
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd605b5493487d30800000000000000
+      internalID: 4429364537985101235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 661
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f6e977635e54290800000000000000
+      internalID: -7906661548681171122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_41
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 656
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66406c5ade864c090800000000000000
+      internalID: -8015166066914884506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 665
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f36967c40d4430800000000000000
+      internalID: 3768673717692135475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_43
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 649
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a14e32d430f510800000000000000
+      internalID: 1580821546799310491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 642
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4245e52b317043d0800000000000000
+      internalID: -3224452834344484276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 647
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addc55a4921f22560800000000000000
+      internalID: 7287652306681974234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 615
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c50c6124032a94c0800000000000000
+      internalID: -4280069995214666300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 618
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb60386f96db8b0800000000000000
+      internalID: -5134831492651368804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 477
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ed2f1638a5b430800000000000000
+      internalID: 3798126811161682566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 506
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b63ad586d382df0800000000000000
+      internalID: -204846264588473450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 451
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe9bfac672ba810800000000000000
+      internalID: 1777557825685942033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_51
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 495
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10203c11ab80f9fd0800000000000000
+      internalID: -2333136486699695615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 436
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff56669896fca9d0800000000000000
+      internalID: -2761561336266203143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 470
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f618d5e6229595f0800000000000000
+      internalID: -750533067124762888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 446
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4d0b9f35de880c0800000000000000
+      internalID: -4573144476667554621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 474
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0895607668d56650800000000000000
+      internalID: 6225619994393548813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 445
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea38bcdfe9ddf70800000000000000
+      internalID: 9213695225548222052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_57
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 474
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebdd06db8396cc0800000000000000
+      internalID: -3717377631392514458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 464
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b3a259bdd670aa0800000000000000
+      internalID: -6194861972556989663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 442
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9a6e309d63da40800000000000000
+      internalID: 5391773645182508410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_60
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 433
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf6317ba8153b20800000000000000
+      internalID: 3113421842014469324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_61
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 404
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9dde2f5b132870800000000000000
+      internalID: 8656793004358344262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_62
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 438
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce36fe2e1e06de3b0800000000000000
+      internalID: -5481618648148778004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_63
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 414
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3887ad74cadbbb0800000000000000
+      internalID: -4918585793410726998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_64
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 444
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc5df822ef571da0800000000000000
+      internalID: -5974200955728732965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 444
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360111313f88176e0800000000000000
+      internalID: -1841540195039506333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 426
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278dcdd1ba0874c00800000000000000
+      internalID: 884817324230367346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_67
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 432
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c798ec77c59400800000000000000
+      internalID: 330389486973731311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 394
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e52a1b184146420800000000000000
+      internalID: 2622243430300016142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_69
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 393
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d86fb839f118e0800000000000000
+      internalID: -1724323160181386972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 335
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3564c66c8abbd00800000000000000
+      internalID: 989570113311495154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 284
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c55d96c7d56a9e0800000000000000
+      internalID: -1610497027805455206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be08a6173a4da60d0800000000000000
+      internalID: -3428694367841648405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 223
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30915b9305b5d12c0800000000000000
+      internalID: -4459307655903241981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_74
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 271
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d23572bef8ce990800000000000000
+      internalID: -7355345851263013483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 280
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a253eaecb21713e0800000000000000
+      internalID: -2083175700031647069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_76
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 270
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376e3f85d92926ff0800000000000000
+      internalID: -44311841820383629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_77
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 184
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912785c3254261da0800000000000000
+      internalID: -5974547920042036711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 230
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08999e59443ee6510800000000000000
+      internalID: 1544421605947054464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 233
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627335550b1403a0800000000000000
+      internalID: -6700200635902234010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_80
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 234
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f18c3100fbcf5c0800000000000000
+      internalID: -4180256347053875366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_81
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 234
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708da16ea0d88dc50800000000000000
+      internalID: 6690252324408580103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_82
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 204
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525dc55bd5595200800000000000000
+      internalID: 169260861528822356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_83
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 209
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d16bf4ce078e20800000000000000
+      internalID: 3352664686794495287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_84
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 180
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af6500a80574a8e0800000000000000
+      internalID: -1683091680824823904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_85
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 180
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd793821e5f13ac0800000000000000
+      internalID: -3877047456797983303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_86
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 119
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb456ef24f0c48580800000000000000
+      internalID: -8825717214731152194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_87
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 117
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72acfab6acae80c0800000000000000
+      internalID: -4571526739632807299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a966ef5a135cac0800000000000000
+      internalID: -3835604918628607374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_89
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 103
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e092f1e0646130800000000000000
+      internalID: 3559076129083024892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles Fusionadas_90
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 71
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c83202c040e41d0800000000000000
+      internalID: -3364747421473862540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arboles Fusionadas_0: 6429159677260849746
+      Arboles Fusionadas_1: 2642634312618782285
+      Arboles Fusionadas_10: -5639763896843876763
+      Arboles Fusionadas_11: 9130548910959708955
+      Arboles Fusionadas_12: 515654363379339072
+      Arboles Fusionadas_13: 6681764487117537324
+      Arboles Fusionadas_14: 7320357938373690957
+      Arboles Fusionadas_15: -1633969621553351109
+      Arboles Fusionadas_16: 1675732062790150148
+      Arboles Fusionadas_17: 7250518096780318470
+      Arboles Fusionadas_18: -2115773866358025225
+      Arboles Fusionadas_19: 6219869804984096373
+      Arboles Fusionadas_2: -717189058050784483
+      Arboles Fusionadas_20: 5117377003344553031
+      Arboles Fusionadas_21: 5266010125594836246
+      Arboles Fusionadas_22: -3154552654202763704
+      Arboles Fusionadas_23: 6739512017096202502
+      Arboles Fusionadas_24: 6324266173502128292
+      Arboles Fusionadas_25: 4580130012835673040
+      Arboles Fusionadas_26: 2496669321938146285
+      Arboles Fusionadas_27: 8113050472417018816
+      Arboles Fusionadas_28: 8514665397800759967
+      Arboles Fusionadas_29: 2874800444286561619
+      Arboles Fusionadas_3: -1645968062084220453
+      Arboles Fusionadas_30: 5728891994201614503
+      Arboles Fusionadas_31: 8258131457798454004
+      Arboles Fusionadas_32: 7308412123433831454
+      Arboles Fusionadas_33: 689480268376850631
+      Arboles Fusionadas_34: -2024117997478820817
+      Arboles Fusionadas_35: -3516584841208103789
+      Arboles Fusionadas_36: -4050470573246168157
+      Arboles Fusionadas_37: 2001818061291573141
+      Arboles Fusionadas_38: 4375425368013641118
+      Arboles Fusionadas_39: 4429364537985101235
+      Arboles Fusionadas_4: -3661175442354470915
+      Arboles Fusionadas_40: -7906661548681171122
+      Arboles Fusionadas_41: -8015166066914884506
+      Arboles Fusionadas_42: 3768673717692135475
+      Arboles Fusionadas_43: 1580821546799310491
+      Arboles Fusionadas_44: -3224452834344484276
+      Arboles Fusionadas_45: 7287652306681974234
+      Arboles Fusionadas_46: -4280069995214666300
+      Arboles Fusionadas_47: -5134831492651368804
+      Arboles Fusionadas_48: 3798126811161682566
+      Arboles Fusionadas_49: -204846264588473450
+      Arboles Fusionadas_5: -6528501027686703600
+      Arboles Fusionadas_50: 1777557825685942033
+      Arboles Fusionadas_51: -2333136486699695615
+      Arboles Fusionadas_52: -2761561336266203143
+      Arboles Fusionadas_53: -750533067124762888
+      Arboles Fusionadas_54: -4573144476667554621
+      Arboles Fusionadas_55: 6225619994393548813
+      Arboles Fusionadas_56: 9213695225548222052
+      Arboles Fusionadas_57: -3717377631392514458
+      Arboles Fusionadas_58: -6194861972556989663
+      Arboles Fusionadas_59: 5391773645182508410
+      Arboles Fusionadas_6: 1391309519843957671
+      Arboles Fusionadas_60: 3113421842014469324
+      Arboles Fusionadas_61: 8656793004358344262
+      Arboles Fusionadas_62: -5481618648148778004
+      Arboles Fusionadas_63: -4918585793410726998
+      Arboles Fusionadas_64: -5974200955728732965
+      Arboles Fusionadas_65: -1841540195039506333
+      Arboles Fusionadas_66: 884817324230367346
+      Arboles Fusionadas_67: 330389486973731311
+      Arboles Fusionadas_68: 2622243430300016142
+      Arboles Fusionadas_69: -1724323160181386972
+      Arboles Fusionadas_7: 4876697074836698071
+      Arboles Fusionadas_70: 989570113311495154
+      Arboles Fusionadas_71: -1610497027805455206
+      Arboles Fusionadas_72: -3428694367841648405
+      Arboles Fusionadas_73: -4459307655903241981
+      Arboles Fusionadas_74: -7355345851263013483
+      Arboles Fusionadas_75: -2083175700031647069
+      Arboles Fusionadas_76: -44311841820383629
+      Arboles Fusionadas_77: -5974547920042036711
+      Arboles Fusionadas_78: 1544421605947054464
+      Arboles Fusionadas_79: -6700200635902234010
+      Arboles Fusionadas_8: -2114498362540783672
+      Arboles Fusionadas_80: -4180256347053875366
+      Arboles Fusionadas_81: 6690252324408580103
+      Arboles Fusionadas_82: 169260861528822356
+      Arboles Fusionadas_83: 3352664686794495287
+      Arboles Fusionadas_84: -1683091680824823904
+      Arboles Fusionadas_85: -3877047456797983303
+      Arboles Fusionadas_86: -8825717214731152194
+      Arboles Fusionadas_87: -4571526739632807299
+      Arboles Fusionadas_88: -3835604918628607374
+      Arboles Fusionadas_89: 3559076129083024892
+      Arboles Fusionadas_9: 3090369003148838463
+      Arboles Fusionadas_90: -3364747421473862540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 6bc7ed689f60e6f40bfdc03ba09dab7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3262136314551152429
+    second: Decoracion Fusionadas_0
+  - first:
+      213: -3138053127545375864
+    second: Decoracion Fusionadas_1
+  - first:
+      213: 4884203650910831540
+    second: Decoracion Fusionadas_2
+  - first:
+      213: -1633827421922756688
+    second: Decoracion Fusionadas_3
+  - first:
+      213: -3117911989529716091
+    second: Decoracion Fusionadas_4
+  - first:
+      213: 461570148298921175
+    second: Decoracion Fusionadas_5
+  - first:
+      213: -3458437278770354201
+    second: Decoracion Fusionadas_6
+  - first:
+      213: 8601150423334368590
+    second: Decoracion Fusionadas_7
+  - first:
+      213: -2581244069034037533
+    second: Decoracion Fusionadas_8
+  - first:
+      213: 6150658565716947307
+    second: Decoracion Fusionadas_9
+  - first:
+      213: 7574972811446271855
+    second: Decoracion Fusionadas_10
+  - first:
+      213: -1997112441024194084
+    second: Decoracion Fusionadas_11
+  - first:
+      213: -5527249894407901675
+    second: Decoracion Fusionadas_12
+  - first:
+      213: 1405214779898870357
+    second: Decoracion Fusionadas_13
+  - first:
+      213: 8754767863561746936
+    second: Decoracion Fusionadas_14
+  - first:
+      213: -3955705480728007303
+    second: Decoracion Fusionadas_15
+  - first:
+      213: 8881622288368567954
+    second: Decoracion Fusionadas_16
+  - first:
+      213: 1361290271101702035
+    second: Decoracion Fusionadas_17
+  - first:
+      213: -1714232595424211249
+    second: Decoracion Fusionadas_18
+  - first:
+      213: 1716557428144343739
+    second: Decoracion Fusionadas_19
+  - first:
+      213: -1377210684202551744
+    second: Decoracion Fusionadas_20
+  - first:
+      213: 7318041452279753850
+    second: Decoracion Fusionadas_21
+  - first:
+      213: -4182808853828912817
+    second: Decoracion Fusionadas_22
+  - first:
+      213: 226453323947071388
+    second: Decoracion Fusionadas_23
+  - first:
+      213: -5540042597041807245
+    second: Decoracion Fusionadas_24
+  - first:
+      213: -5376205264436048834
+    second: Decoracion Fusionadas_25
+  - first:
+      213: -4455261765471342215
+    second: Decoracion Fusionadas_26
+  - first:
+      213: -2330849613816050443
+    second: Decoracion Fusionadas_27
+  - first:
+      213: 3331225022680626606
+    second: Decoracion Fusionadas_28
+  - first:
+      213: 360717306288746474
+    second: Decoracion Fusionadas_29
+  - first:
+      213: 8255396251198643665
+    second: Decoracion Fusionadas_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 775
+        width: 107
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0d6423e409ab2d0800000000000000
+      internalID: -3262136314551152429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 780
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883ba5e7e456374d0800000000000000
+      internalID: -3138053127545375864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 805
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c437c75d28c340800000000000000
+      internalID: 4884203650910831540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 785
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7700cbd9a7359e0800000000000000
+      internalID: -1633827421922756688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 805
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a562f9093fab4d0800000000000000
+      internalID: -3117911989529716091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 619
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d41848ba93d76600800000000000000
+      internalID: 461570148298921175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 631
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ace85e992100d0800000000000000
+      internalID: -3458437278770354201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 606
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45bb8a3dbc6d5770800000000000000
+      internalID: 8601150423334368590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 634
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee64aaf1349d2cd0800000000000000
+      internalID: -2581244069034037533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 618
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61b540c0678b5550800000000000000
+      internalID: 6150658565716947307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 582
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3f7953a5bf1960800000000000000
+      internalID: 7574972811446271855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_11
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 602
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95d38e0d4d844e0800000000000000
+      internalID: -1997112441024194084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 587
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e600371834b43b0800000000000000
+      internalID: -5527249894407901675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 612
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a300da563508310800000000000000
+      internalID: 1405214779898870357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 612
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f97a96bcfe2f7970800000000000000
+      internalID: 8754767863561746936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 588
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2421d2d28a19c0800000000000000
+      internalID: -3955705480728007303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_16
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 618
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29686671a6cd14b70800000000000000
+      internalID: 8881622288368567954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_17
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 572
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f46350a4644e210800000000000000
+      internalID: 1361290271101702035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 592
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce085f6982d538e0800000000000000
+      internalID: -1714232595424211249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 456
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba0a1dd2ef62d710800000000000000
+      internalID: 1716557428144343739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 430
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046fb33fd2a23ece0800000000000000
+      internalID: -1377210684202551744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 456
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce7be9de7ee8560800000000000000
+      internalID: 7318041452279753850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 409
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f493b28428da3f5c0800000000000000
+      internalID: -4182808853828912817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 431
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97521c2916842300800000000000000
+      internalID: 226453323947071388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 327
+        width: 107
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3706ac24c90dd13b0800000000000000
+      internalID: -5540042597041807245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 332
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c44bddbc1e365b0800000000000000
+      internalID: -5376205264436048834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 357
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97173bf770bbb22c0800000000000000
+      internalID: -4455261765471342215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 337
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc43a720a827afd0800000000000000
+      internalID: -2330849613816050443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 357
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea575cf2283ea3e20800000000000000
+      internalID: 3331225022680626606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 311
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2da99a76810500800000000000000
+      internalID: 360717306288746474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracion Fusionadas_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 34
+        width: 144
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd59c8c62f019270800000000000000
+      internalID: 8255396251198643665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Decoracion Fusionadas_0: -3262136314551152429
+      Decoracion Fusionadas_1: -3138053127545375864
+      Decoracion Fusionadas_10: 7574972811446271855
+      Decoracion Fusionadas_11: -1997112441024194084
+      Decoracion Fusionadas_12: -5527249894407901675
+      Decoracion Fusionadas_13: 1405214779898870357
+      Decoracion Fusionadas_14: 8754767863561746936
+      Decoracion Fusionadas_15: -3955705480728007303
+      Decoracion Fusionadas_16: 8881622288368567954
+      Decoracion Fusionadas_17: 1361290271101702035
+      Decoracion Fusionadas_18: -1714232595424211249
+      Decoracion Fusionadas_19: 1716557428144343739
+      Decoracion Fusionadas_2: 4884203650910831540
+      Decoracion Fusionadas_20: -1377210684202551744
+      Decoracion Fusionadas_21: 7318041452279753850
+      Decoracion Fusionadas_22: -4182808853828912817
+      Decoracion Fusionadas_23: 226453323947071388
+      Decoracion Fusionadas_24: -5540042597041807245
+      Decoracion Fusionadas_25: -5376205264436048834
+      Decoracion Fusionadas_26: -4455261765471342215
+      Decoracion Fusionadas_27: -2330849613816050443
+      Decoracion Fusionadas_28: 3331225022680626606
+      Decoracion Fusionadas_29: 360717306288746474
+      Decoracion Fusionadas_3: -1633827421922756688
+      Decoracion Fusionadas_30: 8255396251198643665
+      Decoracion Fusionadas_4: -3117911989529716091
+      Decoracion Fusionadas_5: 461570148298921175
+      Decoracion Fusionadas_6: -3458437278770354201
+      Decoracion Fusionadas_7: 8601150423334368590
+      Decoracion Fusionadas_8: -2581244069034037533
+      Decoracion Fusionadas_9: 6150658565716947307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
